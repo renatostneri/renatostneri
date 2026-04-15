@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi there 👋<br>🔭 Graduado em Direito, dedico-me atualmente à área de tecnologia, em uma trajetória marcada pela curiosidade intelectual e pela busca constante por inovação.<br><br>🌱 Back-end Developer;<br><br>⚡ O mundo muda rápido, especialmente na tecnologia. Quem aprende continuamente se adapta melhor às transformações.
+
+Hi there 👋<br>
+
+
+🔭 Graduado em Direito, dedico-me atualmente à área de tecnologia, em uma trajetória marcada pela curiosidade intelectual e pela busca constante por inovação.<br><br>🌱 Back-end Developer;<br><br>⚡ O mundo muda rápido, especialmente na tecnologia. Quem aprende continuamente se adapta melhor às transformações.
 
 
 
